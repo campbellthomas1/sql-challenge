@@ -1,6 +1,6 @@
 # sql-challenge
 
-## In this challenge I took data from 6 excel files from a fictional company and gave an analysis on them. I engineered and modeled the data as well. I:
+## In this challenge I took data from 6 csv files from a fictional company and gave an analysis on them. I engineered and modeled the data as well. I:
 
 - Listed the employee number, last name, first name, sex, and salary of each employee.
 - Listed the first name, last name, and hire date for the employees who were hired in 1986.
